@@ -30,7 +30,7 @@ body {
   text-decoration: none;
   display: flex;
   position: relative;
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   font-size: 12px;
   line-height: 60px;
   text-transform: uppercase;
